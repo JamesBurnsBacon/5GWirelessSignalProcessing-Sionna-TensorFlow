@@ -1,10 +1,10 @@
-CS 145 Project 7- Cell Phone Service Failures in Crowds
+CS 145 Project 7- Cell Phone Service Failures in Crowds? Simulating MIMO 5G Bit Error Rates
 
 Author and collaborators
-Author name
-James Burns
-Collaborators
-Minghao approved my idea to use the NVIDIA Sionna library for wireless simulations.
+
+Author: James Burns
+
+Collaborators: Dr. Minghao Lin approved my idea to use the NVIDIA Sionna library for wireless simulations.
 
 Report Part 1: Introduction and the Power of 5G Encodings in Wireless Signal Processing
 We'll be exploring Direction 2: "Pick any network outage postmortem and reproduce the similar problems based on the postmortem." I sincerely hope you enjoy grading this, the Sionna package is a powerful simulator and they claim that it's used widely in 6G research. I have no prior experience with wireless networks!
