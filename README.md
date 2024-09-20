@@ -1,8 +1,8 @@
 CS 145 Project 7- Cell Phone Service Failures in Crowds
+
 Author and collaborators
 Author name
 James Burns
-
 Collaborators
 Minghao approved my idea to use the NVIDIA Sionna library for wireless simulations.
 
